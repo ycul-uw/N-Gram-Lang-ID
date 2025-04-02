@@ -1,4 +1,4 @@
-# Bigram Language Models
+# N-Gram Language Models for Language Identification
 
 _Author: Lucy Wu_
 
@@ -6,7 +6,7 @@ _Date: 03/12/2025_
 
 ## Description
 
-This repository contains three different implementations of bigram-based language models used for language identification. The models predict the probability of a given sentence belonging to a specific language (English, French, or Italian) using different smoothing techniques:
+This repository contains three different implementations of bigram-based language models used for language identification. The models predict the probability of a given sentence belonging to a specific language **(English, French, or Italian)** using different smoothing techniques:
 
 ### **1. Letter-based Bigram Model with Add-One Smoothing**
 
