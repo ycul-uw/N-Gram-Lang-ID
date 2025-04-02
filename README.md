@@ -48,10 +48,9 @@ pip install numpy jupyter
    - **Word-based Add-One model**: `wordLangId.ipynb`
    - **Word-based Good-Turing model**: `wordLangId2.ipynb`
 
-    - Models will be trained using the datasets in `src/Data/Input`.
-    - Outputs will be automatically placed in `src/Data/Output`
-    - Evaluate of the predictions/accuracy of each model is displayed at the end of each model files.
-   
+- Models will be trained using the datasets in `src/Data/Input`.
+- Outputs will be automatically placed in `src/Data/Output`
+- Evaluate of the predictions/accuracy of each model is displayed at the end of each model files.
 
 ### **Example Usage**
 
